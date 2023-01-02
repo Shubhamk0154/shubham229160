@@ -1,0 +1,22 @@
+{
+  "name": "shubham229160",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubhamk0154/shubham229160.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubhamk0154/shubham229160/issues"
+  },
+  "homepage": "https://github.com/Shubhamk0154/shubham229160#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
